@@ -1,0 +1,29 @@
+body {
+    background-color: #181825;
+    color: #ffffff;
+    font-family: Tahoma, sans-serif;
+}
+
+#title {
+    font-size: 30px;
+    color: #c6d0f5;
+    font-family: Tahoma, sans-serif;
+    font-weight: 300;
+    font-weight: bold;
+}
+
+#title2 {
+    font-size: 25px;
+    color: #858ca4;
+    font-family: Tahoma, sans-serif;
+    font-weight: 250;
+}
+
+h1 {
+    color: rgb(255, 255, 0);
+}
+
+h2{
+    font-size:27px;
+    color: #f9c69a;
+}
