@@ -1,0 +1,26 @@
+> Soft Blues:
+
+Light Blue: #D0E8F2
+Medium Blue: #A0C4DE
+
+> Gentle Purples:
+
+Lavender: #E6DFF1
+Mauve: #BFA2DB
+
+> Warm Neutrals:
+
+Beige: #F5F1E9
+Tan: #EDE1D4
+Off-White: #FAF9F6
+Orangish thing: #f3e6cc
+
+> Teal for Accents:
+
+Soft Teal: #A0D6B4
+Deep Teal: #6ABAB3
+
+> Warm Yellow/Orange for Highlights:
+
+Soft Yellow: #F7E6A6
+Light Orange: #F3C29F
