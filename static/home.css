@@ -31,3 +31,45 @@ body {
     padding: 2.5%;
     background-color: #F5F1E9;
 }
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.task {
+    text-transform: capitalize;
+    margin: 2px;
+}
+
+button {
+    margin: 2px;
+    border-width: 1.5px;
+    border-radius: 4px;
+    background-color: #F7E6A6;
+    color: #708a9c;
+}
+
+input {
+    margin: 2px;
+    border-width: 1.5px;
+    border-radius: 4px;
+    background-color: #f7e9cd;
+    color: #708a9c;
+}
+
+.btn {
+    background-color: #F7E6A6;
+    color: #708a9c;
+}
+
+.btn:hover {
+    background-color: #F7E6A6;
+    color: #a1c7e2;
+}
